@@ -11,7 +11,7 @@ namespace ParallelTestExecution3
     public class Test3
     {
         [Test]
-        public void Test3Secs3()
+        public void Test5Secs3()
         {
             Thread.Sleep(5000);
             Assert.IsTrue(true);
