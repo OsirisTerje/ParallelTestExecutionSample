@@ -12,7 +12,7 @@
 
     <!-- Framework35 | [Framework40] | Framework45 -->
     <TargetFrameworkVersion>Framework40</TargetFrameworkVersion>
-    <MaxCpuCount>8</MaxCpuCount>
+    <MaxCpuCount>4</MaxCpuCount>
   </RunConfiguration>
   <DataCollectionRunSettings>
     <DataCollectors>
