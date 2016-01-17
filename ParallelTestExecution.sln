@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelTestExecution4", "P
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC302EA5-B822-492C-A9DF-C49CF3A6881B}"
 	ProjectSection(SolutionItems) = preProject
-		Runsettings1.runsettings = Runsettings1.runsettings
+		CompleteRunsettings1.runsettings = CompleteRunsettings1.runsettings
+		CoverageNoParallel1.runsettings = CoverageNoParallel1.runsettings
+		Parallel1.runsettings = Parallel1.runsettings
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelTestExecution", "ParallelTestExecution1\ParallelTestExecution.csproj", "{E094E988-B8BB-43E6-94A6-09E392D5AFDC}"
